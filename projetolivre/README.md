@@ -19,7 +19,7 @@ Este projeto implementa um sistema de gerenciamento de biblioteca utilizando os 
 
 1. Clone o repositório:
 2. Navegue até o diretório do projeto:
-3. Execute o programa:
+3. Execute o programa: main.py
 
 ## Casos de Uso
 
